@@ -45,6 +45,8 @@ public class Robot extends TimedRobot {
   public states status = states.done;
   public states PrevStatus = states.done;
 
+  // Merge Comment...
+  
   /**
    * This function is run when the robot is first started up and should be used
    * for any initialization code.
